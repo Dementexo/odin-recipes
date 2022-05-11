@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(0, 0, 0);
+  }
+  h1{
+    background-color: rgb(0, 0, 0);
+    font-size: 32px;
+    text-align: center;
+    font: bold;
+    color: rgb(255, 255, 255);
+  }
+  h2{
+    background-color: rgb(0, 0, 0);
+    font-size: 32px;
+    text-align: center;
+    font: bold;
+    color: rgb(255, 255, 255)
+  }
+  p{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-size: 18px;
+    text-align: center;
+  }
+  button{
+    background-color: green;
+    border: none;
+    padding: 10px 24px;
+    font-size: 13px;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    font-style: oblique;
+  }
+  ul{
+    font-size: 18px;
+    color: white;
+  }
+  img{
+      margin: auto;
+      display: block;
+  }
+  
