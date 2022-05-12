@@ -1,42 +1,57 @@
-body {
-    background-color: rgb(0, 0, 0);
+  body{
+    background-color: rgb(255, 255, 255);
   }
   h1{
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(189, 189, 189);
     font-size: 32px;
     text-align: center;
     font: bold;
-    color: rgb(255, 255, 255);
+    border: solid;
+    padding: 20px;
+    color: rgb(43, 39, 39);
   }
   h2{
-    background-color: rgb(0, 0, 0);
-    font-size: 32px;
+    background-color: rgb(189, 189, 189);
+    font-size: 24px;
     text-align: center;
     font: bold;
-    color: rgb(255, 255, 255)
+    border: solid;
+    padding: 10px;
+    color: rgb(43, 39, 39);
+  }
+  h3{
+    text-align: center;
+    font-size: 25px;
   }
   p{
-    background-color: rgb(0, 0, 0);
-    color: white;
-    font-size: 18px;
+    background-color: rgb(255, 255, 255);
+    color:rgb(67, 62, 62);
     text-align: center;
+    font-size: 20px;
   }
-  button{
-    background-color: green;
+  #button1{
+    background-color: rgb(189, 189, 189);
     border: none;
-    padding: 10px 24px;
-    font-size: 13px;
-    color: white;
+    padding: 5px 12px;
+    font-size: 10px;
+    color: rgb(67, 62, 62);
     display: inline-block;
     text-align: center;
     font-style: oblique;
   }
   ul{
     font-size: 18px;
-    color: white;
+    color: rgb(67, 62, 62);
   }
   img{
       margin: auto;
       display: block;
+  }
+  button{
+    background-color: rgb(189, 189, 189);
+    border: none;
+    padding: 10px 24px;
+    font-size: 16px;
+    color: rgb(67, 62, 62);
   }
   
